@@ -1,16 +1,7 @@
-# todo_list
+# Todo List
 
-A new Flutter project.
+------
 
-## Getting Started
+### Why?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is a todo list application that uses cubit state management nad it's like a concept idea more than a full scale application
